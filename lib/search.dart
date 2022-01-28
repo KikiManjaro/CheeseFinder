@@ -80,9 +80,9 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   const Text(
-                    '🧀 Tap to Cheezam',
+                    '🧀 Tap to find cheese',
                     style: TextStyle(
-                        color: Colors.white,
+                        color: AppTheme.lightColor,
                         fontSize: 28,
                         fontWeight: FontWeight.bold),
                   ),
@@ -97,7 +97,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                         elevation: 8,
                         child: Container(
                           padding: const EdgeInsets.only(
-                              right: 32, left: 28, top: 20, bottom: 40),
+                              right: 30, left: 30, top: 25, bottom: 35),
                           height: 200,
                           width: 200,
                           decoration: const BoxDecoration(
@@ -107,7 +107,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                             alignment: Alignment.center,
                             child: Image.asset(
                               'assets/images/cheese.png',
-                              color: Colors.white,
+                              color: AppTheme.lightColor,
                             ),
                           ),
                         ),
@@ -128,7 +128,7 @@ class _SearchPageState extends State<SearchPage> with TickerProviderStateMixin {
                           alignment: Alignment.center,
                           child: const Icon(
                             Icons.file_copy,
-                            color: Colors.white,
+                            color: AppTheme.lightColor,
                           ),
                         ),
                       ),

@@ -78,7 +78,7 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                       const Center(
                         child: Text(
                           "Sorry there is no cheese here",
-                          style: TextStyle(color: Colors.white, fontSize: 24),
+                          style: TextStyle(color: AppTheme.lightColor, fontSize: 24),
                         ),
                       ),
                     ],
@@ -128,12 +128,12 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                   const Icon(
                     Icons.assignment_rounded,
                     size: 14,
-                    color: Colors.white,
+                    color: AppTheme.lightColor,
                   ),
                   Text(
                     prediction.humanname!,
                     style: const TextStyle(
-                      color: Colors.white,
+                      color: AppTheme.lightColor,
                       fontSize: 10.0,
                     ),
                   ),
@@ -219,11 +219,11 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                             const TextSpan(
                                 text: "Name: ",
                                 style: TextStyle(
-                                    color: Colors.white,
+                                    color: AppTheme.lightColor,
                                     fontWeight: FontWeight.bold)),
                             TextSpan(
                                 text: prediction.humanname!,
-                                style: const TextStyle(color: Colors.white))
+                                style: const TextStyle(color: AppTheme.lightColor))
                           ]),
                         )
                       : null,
@@ -233,14 +233,14 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                         const TextSpan(
                             text: "Probability: ",
                             style: TextStyle(
-                                color: Colors.white,
+                                color: AppTheme.lightColor,
                                 fontWeight: FontWeight.bold)),
                         TextSpan(
                             text: (prediction.probability! * 100)
                                     .round()
                                     .toString() +
                                 "%",
-                            style: const TextStyle(color: Colors.white))
+                            style: const TextStyle(color: AppTheme.lightColor))
                       ],
                     ),
                   ),
@@ -260,14 +260,14 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
     widgets.add(const SizedBox(height: 40));
     widgets.add(const Text(
       "We found this: ",
-      style: TextStyle(color: Colors.white, fontSize: 20),
+      style: TextStyle(color: AppTheme.lightColor, fontSize: 20),
     ));
     widgets.add(const SizedBox(height: 20));
     widgets.addAll(_getFoundCheese(response));
     widgets.add(const SizedBox(height: 40));
     widgets.add(const Text(
       "We recommend you: ",
-      style: TextStyle(color: Colors.white, fontSize: 20),
+      style: TextStyle(color: AppTheme.lightColor, fontSize: 20),
     ));
     widgets.add(const SizedBox(height: 20));
     widgets.addAll(_getRecommendations());
@@ -297,11 +297,11 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                               const TextSpan(
                                   text: "Name: ",
                                   style: TextStyle(
-                                      color: Colors.white,
+                                      color: AppTheme.lightColor,
                                       fontWeight: FontWeight.bold)),
                               TextSpan(
                                   text: rec.name!,
-                                  style: const TextStyle(color: Colors.white))
+                                  style: const TextStyle(color: AppTheme.lightColor))
                             ]),
                           )
                         : const Text(""),
@@ -315,12 +315,12 @@ class _ResultPage extends State<ResultPage> with TickerProviderStateMixin {
                                     const TextSpan(
                                         text: "Link: ",
                                         style: TextStyle(
-                                            color: Colors.white,
+                                            color: AppTheme.lightColor,
                                             fontWeight: FontWeight.bold)),
                                     TextSpan(
                                         text: rec.affiliatedURL!,
                                         style: const TextStyle(
-                                            color: Colors.white)),
+                                            color: AppTheme.lightColor)),
                                   ]),
                             ),
                           )
