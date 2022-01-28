@@ -1,4 +1,4 @@
-package com.example.cheezam
+package com.kikimanjaro.cheezam
 
 import io.flutter.embedding.android.FlutterActivity
 

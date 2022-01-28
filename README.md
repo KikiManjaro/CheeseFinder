@@ -1,10 +1,10 @@
-# Cheezam
+# Cheese Finder
 
 Find cheeses from pictures and screenshot thanks to AI
 
 ## Informations
 
-Cheezam is an application to help you finding cheeses information from pictures or screenshot,
+Cheese Finder is an application to help you finding cheeses information from pictures or screenshot,
 
 Find cheeses present on pictures and get wine recommendation :)
 

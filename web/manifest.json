@@ -1,6 +1,6 @@
 {
-    "name": "cheezam",
-    "short_name": "cheezam",
+    "name": "Cheese Finder",
+    "short_name": "Cheese Finder",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Cheezam',
+        title: 'Cheese Finder',
         theme: ThemeData(
           primarySwatch: Colors.orange,
           // This makes the visual density adapt to the platform that you run
