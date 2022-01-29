@@ -2,6 +2,8 @@
 
 Find cheeses from pictures and screenshot thanks to AI
 
+[![GooglePlay](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.kikimanjaro.cheezam%26l%3DCheeseFinder%26m%3D%24installs)](https://play.google.com/store/apps/details?id=com.kikimanjaro.cheezam) [![Rating](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.kikimanjaro.cheezam%26l%3DCheeseFinder%26m%3D%24rating)](https://play.google.com/store/apps/details?id=com.kikimanjaro.cheezam)
+
 ## Informations
 
 Cheese Finder is an application to help you finding cheeses information from pictures or screenshot,
