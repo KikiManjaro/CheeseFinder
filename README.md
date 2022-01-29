@@ -4,6 +4,10 @@ Find cheeses from pictures and screenshot thanks to AI
 
 [![GooglePlay](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.kikimanjaro.cheezam%26l%3DCheeseFinder%26m%3D%24installs)](https://play.google.com/store/apps/details?id=com.kikimanjaro.cheezam) [![Rating](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplayshields.herokuapp.com%2Fplay%3Fi%3Dcom.kikimanjaro.cheezam%26l%3DCheeseFinder%26m%3D%24rating)](https://play.google.com/store/apps/details?id=com.kikimanjaro.cheezam)
 
+<p align='center'>
+<img src="https://play-lh.googleusercontent.com/LCdgVBZ2UxO5bt9JcaIesGR-CdBXv4otwhFKI7V0kvXJ6MFP9jbv1wQV-skf0RKfqMw=w1004-h998-rw" data-canonical-src="https://play-lh.googleusercontent.com/LCdgVBZ2UxO5bt9JcaIesGR-CdBXv4otwhFKI7V0kvXJ6MFP9jbv1wQV-skf0RKfqMw=w1004-h998-rw" height="400" /> <img src="https://play-lh.googleusercontent.com/E1T_qFPGndq79g8Yybuu96fZEdMukXPOmCodCXhevKwZJNA0AlgkB_Elp1LV-1hESA=w1004-h998-rw" data-canonical-src="https://play-lh.googleusercontent.com/E1T_qFPGndq79g8Yybuu96fZEdMukXPOmCodCXhevKwZJNA0AlgkB_Elp1LV-1hESA=w1004-h998-rw" height="400" /> <img src="https://play-lh.googleusercontent.com/e-j2_k3ISMZXTyDYNtFZeLb9p7aBfM0iLIBQLRlCA3hWOctzUZeAbNtXgsV8kCM6Hy0=w1004-h998-rw" data-canonical-src="https://play-lh.googleusercontent.com/e-j2_k3ISMZXTyDYNtFZeLb9p7aBfM0iLIBQLRlCA3hWOctzUZeAbNtXgsV8kCM6Hy0=w1004-h998-rw" height="400" />
+</p>
+
 ## Informations
 
 Cheese Finder is an application to help you finding cheeses information from pictures or screenshot,
