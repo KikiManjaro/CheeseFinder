@@ -1,4 +1,4 @@
-# Cheese Finder
+# <img align="center" src="https://play-lh.googleusercontent.com/PGldlNOVr3MBea8d2R5PKr6lcKeooiZACp1qaY4lCfxlthk7Vs0b3tdMSWS0XOS-jlQ=s180-rw" data-canonical-src="https://play-lh.googleusercontent.com/PGldlNOVr3MBea8d2R5PKr6lcKeooiZACp1qaY4lCfxlthk7Vs0b3tdMSWS0XOS-jlQ=s180-rw" height="40" /> Cheese Finder
 
 Find cheeses from pictures and screenshot thanks to AI
 
